@@ -131,7 +131,8 @@ p {
   .projectImage img {
     display: none;
   }
-  .projectText {
+  .projectText,
+  .paragraph {
     text-align: center;
   }
 }
