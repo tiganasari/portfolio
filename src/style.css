@@ -135,4 +135,8 @@ p {
   .paragraph {
     text-align: center;
   }
+
+  .col-sm-4 {
+    margin: 20px 0;
+  }
 }
